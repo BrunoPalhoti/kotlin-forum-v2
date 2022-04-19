@@ -1,6 +1,6 @@
 # kotlin-forum
 Em andamento
 
-#Falta fazer:
-Segurança e Infraestrutura
+Falta fazer:
+Segurança em andamento
 Testes
