@@ -1,6 +1,8 @@
 # kotlin-forum
 Em andamento
 
-Falta fazer:
+# Fazaendo:
 Segurança em andamento
+
+# Falta fazer:
 Testes
